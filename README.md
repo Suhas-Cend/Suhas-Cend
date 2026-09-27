@@ -1,4 +1,4 @@
-# Hi! I'm Suhas 👋
+# Hey! I'm Suhas 👋
 ### Developer · Engineer · Researcher
 
 ![DEV](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdwM2Uwam5vM3BhY3IxamdvMjBibGZwZ2ZvdXdncDJqcWJkaGM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)
