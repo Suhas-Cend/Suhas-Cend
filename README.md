@@ -25,5 +25,5 @@ Stuff I'm good at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhaskusumba)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1428984491405480067)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Suhas-Cend)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SuhasKusumba-n8x)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SuhasKusumba-n8x1)
 [![Gmail](https://img.shields.io/badge/suhascend%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhascend@gmail.com)
